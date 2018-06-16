@@ -1,0 +1,28 @@
+body
+{
+margin: 50px auto;
+font-size: 1.2em;
+line-height: 1.4 ;
+max-width: 800px;
+padding:0 20px;
+background-color: #f0f2ea;
+ 
+ }
+
+
+
+h1,h2,h3
+{
+	text-align: center;
+	color: red;
+
+}
+
+
+
+.flottant
+{
+
+ 	float: right;
+ box-shadow: 10px 6px 10px black; 
+}
